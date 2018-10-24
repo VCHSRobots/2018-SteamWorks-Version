@@ -8,7 +8,7 @@ Everything works except for turntable
 First Successful Mecanum drive from scratch
   Where we created 4 different equations... one for each wheel
   
-        Front Right Motor = Y - X + Z
+  	Front Right Motor = Y - X + Z
 	
 	Front Left Motor= X + Y - Z;
 	
